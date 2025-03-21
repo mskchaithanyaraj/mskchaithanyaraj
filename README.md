@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning **Next.js**
 - 💬 Ask me about **Tech**
 - 📫 Reach me at **mskchaithanyaraj@gmail.com**
 
