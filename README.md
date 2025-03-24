@@ -1,92 +1,170 @@
-# <div align="center">Hi 👋, I'm Sri Krishna Chaithanya Raj Masimukku</div>
-
-<div align="center">
-  <h3>A passionate MERN Stack developer from India 🚀</h3>
-</div>
-
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-chaithanya-masimukku/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://krishna-chaithanya-masimukku.netlify.app/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/SriKris84075274)
-  [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:mskchaithanyaraj@gmail.com)
-  
-</div>
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=50&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=50&descAlign=50)
 
-<div align="center">
+  <div style="margin-top: -20px">
+    <a href="https://www.linkedin.com/in/krishna-chaithanya-masimukku/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://krishna-chaithanya-masimukku.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://x.com/SriKris84075274" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:mskchaithanyaraj@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </div>
+
   <img src="https://komarev.com/ghpvc/?username=msk-chaithanya-raj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+  <h3>🎮 Welcome to My Interactive Profile! 🎮</h3>
+  
+  > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
 </div>
 
-## 🚀 About Me
-
-- 🌱 I'm currently learning **Next.js**
-- 💬 Ask me about **Tech**
-- 📫 Reach me at **mskchaithanyaraj@gmail.com**
-
-## 💻 Tech Stack
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-</details>
-
-<details open>
-<summary><b>Backend Development</b></summary>
-<br>
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>Other Skills</b></summary>
-<br>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-## 🎯 Core Competencies
-
-- 🧠 Problem Solving
-- ⏰ Time Management
-- 📚 Continuous Learning
-- 🎯 Event Organizing
-- 👥 Team Collaboration
-
-## 📊 GitHub Stats
-
+<details>
+<summary><h2>🎯 Quick Stats Game</h2></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msk-chaithanya-raj&show_icons=true&locale=en&layout=compact&theme=dark" alt="top languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=msk-chaithanya-raj&show_icons=true&locale=en&theme=dark" alt="github stats" />
+  ```ascii
+  🎮 STREAK SURVIVAL GAME 🎮
+  ┌────────────────────────┐
+  │  Current Streak: 42    │
+  │  Level: Advanced       │
+  │  XP: ████████░░ 80%   │
+  └────────────────────────┘
+  ```
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msk-chaithanya-raj&theme=dark" alt="github streak" />
+  | Achievement      | Status        | Reward         |
+  |-----------------|---------------|----------------|
+  | 30 Days Streak  | ✅ Completed  | 🏆 Gold Badge  |
+  | 50 PRs Merged   | ⏳ In Progress| 🥈 Silver Badge|
+  | 100 Commits     | ✅ Completed  | 🌟 Star Badge  |
+
 </div>
+</details>
 
-## 🏆 GitHub Trophies
+<details>
+<summary><h2>🚀 About Me</h2></summary>
+
+```javascript
+const krishna = {
+  location: "India 🇮🇳",
+  currentFocus: "Next.js 🔥",
+  askMeAbout: ["Web Dev", "Tech", "Problem Solving"],
+  dailyRoutine: ["Code", "Coffee", "Debug", "Repeat"],
+  funFact: "I can debug with my eyes closed 👀",
+  contact: "mskchaithanyaraj@gmail.com 📫"
+};
+```
+
+</details>
+
+<details>
+<summary><h2>💻 Tech Arsenal</h2></summary>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msk-chaithanya-raj&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
+
+  ```ascii
+  🎮 SKILL TREE 🎮
+  ═══════════════════
+  
+  Frontend Mastery
+  ├─ HTML5       [█████] 100%
+  ├─ CSS3        [████░] 80%
+  ├─ JavaScript  [████░] 80%
+  ├─ TypeScript  [███░░] 60%
+  ├─ React       [████░] 80%
+  └─ Bootstrap   [████░] 80%
+  
+  Backend Powers
+  ├─ Node.js     [████░] 80%
+  └─ Express.js  [████░] 80%
+  
+  Database Knowledge
+  ├─ MongoDB     [████░] 80%
+  └─ SQLite      [███░░] 60%
+  
+  Tools & Others
+  ├─ Git         [████░] 80%
+  ├─ C++         [███░░] 60%
+  ├─ Python      [███░░] 60%
+  └─ Postman     [████░] 80%
+  ```
+
+</div>
+</details>
+
+<details>
+<summary><h2>🎯 Core Powers</h2></summary>
+
+<div align="center">
+
+  ```ascii
+  🎮 POWER STATS 🎮
+  ═══════════════════
+  
+  Problem Solving  [█████] ⚡️
+  Time Management  [████░] 🕒
+  Learning Speed   [████░] 📚
+  Team Work        [████░] 👥
+  Event Planning   [████░] 🎯
+  ```
+
+</div>
+</details>
+
+<details>
+<summary><h2>📊 Battle Stats</h2></summary>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msk-chaithanya-raj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=msk-chaithanya-raj&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" />
+  
+  <br/>
+  
+  ```ascii
+  🐍 CONTRIBUTION SNAKE GAME 🐍
+  ═══════════════════════════
+  Eat commits to grow longer!
+  
+  🟩🟩⬛️⬛️🟩🟩⬛️⬛️🟩🐍
+  High Score: 1,337 commits
+  ```
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msk-chaithanya-raj&theme=radical&hide_border=true&background=0D1117" alt="github streak" />
+
+</div>
+</details>
+
+<details>
+<summary><h2>🏆 Achievement Gallery</h2></summary>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=msk-chaithanya-raj&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="github trophies" />
+
+  ```ascii
+  🎮 TROPHY ROOM 🎮
+  ═══════════════════
+  🏆 Code Master
+  🎯 Bug Hunter
+  ⭐ Star Collector
+  🔥 Streak Champion
+  ```
+
+</div>
+</details>
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 </div>
