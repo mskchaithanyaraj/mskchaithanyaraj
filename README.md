@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=50&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=50&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=40&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=50&descAlign=50)
 
   <div style="margin-top: -20px">
     <a href="https://www.linkedin.com/in/krishna-chaithanya-masimukku/" target="_blank">
