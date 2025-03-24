@@ -117,14 +117,18 @@ const krishnaChaithanya = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=msk-chaithanya-raj&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
-  ### 🌟 Notable Achievement
+  ## 🌟 Notable Achievement
   
-  **Pioneering AI-Integrated Coding Event**
-  - Vice-President of Techno Club
-  - Organized "Code with GPT" competition on HackerRank
-  - Integrated AI tools like ChatGPT and Copilot
-  - Fostered innovation in coding practices
-
+  <div align="left">
+    <h3>🚀 Pioneering AI-Integrated Coding Event</h3>
+  </div>
+  
+  🎯 **Role**: Vice-President of **Techno Club**  
+  🏆 **Event**: Organized the epic **"Code with GPT"** competition on HackerRank  
+  🤖 **Innovation**: Seamlessly integrated AI tools like **ChatGPT** and **Copilot**  
+  ✨ **Impact**: Sparked creativity and revolutionized coding practices for participants  
+  
+  ---
 </div>
 </details>
 
