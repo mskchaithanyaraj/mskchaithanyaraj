@@ -19,7 +19,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=msk-chaithanya-raj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-  <h3>🎓 B.Tech Student | 💻 Full Stack Developer | 🚀 Tech Enthusiast</h3>
+  <h3>🎓 B.Tech Student | 💻 Full Stack Developer</h3>
   
   > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
