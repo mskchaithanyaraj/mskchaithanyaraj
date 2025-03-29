@@ -57,36 +57,7 @@ const krishnaChaithanya = {
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 
 </div>
-
-## 🚀 Featured Projects
-
-<details close>
-<summary><h3>Chatty: Real-Time Messaging App</h3></summary>
-
-- 🔗 [Live Demo](https://fullstack-chat-app-axa7.onrender.com)
-- 💡 Real-time messaging with Socket.io
-- 🔒 JWT authentication & secure sessions
-- 🛠️ **Tech Stack**: React.js, Node.js, MongoDB, Express.js, Socket.io, TailwindCSS
-</details>
-
-<details close>
-<summary><h3>HealU: Nutrition & Meal Planning Platform</h3></summary>
-
-- 🔗 [Live Demo](https://healuonline.netlify.app)
-- 🤖 Integrated chatbot for diet planning
-- 📊 BMI calculation & personalized meal plans
-- 🛠️ **Tech Stack**: Node.js, React.js, Express.js, MongoDB
-</details>
-
-<details close>
-<summary><h3>Nxt Trendz (E-Commerce Clone)</h3></summary>
-
-- 🔗 [Live Demo](https://kcnxttrendz.ccbp.tech)
-- 🛍️ E-commerce platform with product management
-- 🔐 Secure authentication & authorization
-- 🛠️ **Tech Stack**: React.js, JavaScript, Bootstrap, REST API
-</details>
-
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,39 +69,7 @@ const krishnaChaithanya = {
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=msk-chaithanya-raj&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Language Distribution" />
 </div>
 
-## 🎯 Core Competencies
 
-<div align="center">
-
-| Technical Skills | Soft Skills |
-|-----------------|-------------|
-| Data Structures & Algorithms | Problem Solving |
-| Full Stack Development | Time Management |
-| API Integration | Event Organizing | 
-| Responsive Design | Team Collaboration |
-
-</div>
-
-<details>
-<summary><h2>🏆 Achievements</h2></summary>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msk-chaithanya-raj&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-  ## 🌟 Notable Achievement
-  
-  <div align="left">
-    <h3>🚀 Pioneering AI-Integrated Coding Event</h3>
-  </div>
-  
-  🎯 **Role**: Vice-President of **Techno Club**  
-  🏆 **Event**: Organized the epic **"Code with GPT"** competition on HackerRank  
-  🤖 **Innovation**: Seamlessly integrated AI tools like **ChatGPT** and **Copilot**  
-  ✨ **Impact**: Sparked creativity and revolutionized coding practices for participants  
-  
-  ---
-</div>
-</details>
 
 <div align="center">
   
