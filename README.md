@@ -30,11 +30,6 @@
 ```javascript
 const krishnaChaithanya = {
   location: "Machilipatnam, Andhra Pradesh 🌆",
-  education: {
-    college: "Seshadri Rao Gudlavalleru Engineering College",
-    course: "B.Tech in Information Technology",
-    cgpa: 8.9
-  },
   currentFocus: "Full-Stack Development with MERN Stack",
   interests: [
     "Problem Solving",
