@@ -1,27 +1,27 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=40&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=50&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=40&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=50&descAlign=50)
 
-  <div style="margin-top: -20px">
-    <a href="https://www.linkedin.com/in/krishna-chaithanya-masimukku/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://krishna-chaithanya-masimukku.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://x.com/SriKris84075274" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:mskchaithanyaraj@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </div>
+<div style="margin-top: -20px">
+  <a href="https://www.linkedin.com/in/krishna-chaithanya-masimukku/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://krishna-chaithanya-masimukku.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/SriKris84075274" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:mskchaithanyaraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=msk-chaithanya-raj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=msk-chaithanya-raj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-  <h3>🎓 B.Tech Student | 💻 Full Stack Developer</h3>
-  
-  > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### 🎓 B.Tech Student | 💻 Full Stack Developer
+
+> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
 
@@ -40,11 +40,20 @@ const krishnaChaithanya = {
 };
 ```
 
- 
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msk-chaithanya-raj&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msk-chaithanya-raj&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msk-chaithanya-raj&layout=compact&theme=radical)
+
+</div>
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
