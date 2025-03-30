@@ -95,7 +95,7 @@ const krishnaChaithanya = {
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/TejaNadella28/TejaNadella28/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/msk-chaithanya-raj/msk-chaithanya-raj//output/snake.svg" alt="Snake animation" />
 
 
 ---
