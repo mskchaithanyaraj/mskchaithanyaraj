@@ -1,9 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=800&height=70&lines=Welcome+to+my+github+profile!!" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=190&section=header&text=Sri%20Krishna%20Chaithanya%20Raj&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
 <div align="center">
