@@ -10,8 +10,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=msk-chaithanya-raj&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=msk-chaithanya-raj&hide_border=true&theme=transparent&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
-</div>
+ </div>
 
 ### 🚀 About Me
 
