@@ -8,10 +8,6 @@
 
 <br/>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=msk-chaithanya-raj&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
- </div>
-
 ### 🚀 About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OGU2NGU4NmM0ZmY4ZjgxMmFiYjk4YmFkYjg4ZjBhODYxYjE4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
