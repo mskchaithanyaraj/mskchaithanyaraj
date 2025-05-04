@@ -21,7 +21,7 @@ const krishnaChaithanya = {
     "Web Development",
     "Data Structures & Algorithms"
   ],
-  education: "🎓 B.Tech Student",
+  education: "🎓 B.Tech Student - IT",
   contact: "mskchaithanyaraj@gmail.com"
 };
 ```
