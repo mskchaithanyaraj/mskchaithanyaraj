@@ -66,7 +66,7 @@ const krishnaChaithanya = {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msk-chaithanya-raj&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mskchaithanyaraj&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 </p>
 
 ### 🌐 Connect with Me
@@ -79,7 +79,7 @@ const krishnaChaithanya = {
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
-<img src="https://raw.githubusercontent.com/msk-chaithanya-raj/msk-chaithanya-raj//output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mskchaithanyaraj/mskchaithanyaraj//output/snake.svg" alt="Snake animation" />
 
 
 ---
