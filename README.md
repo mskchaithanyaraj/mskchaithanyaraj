@@ -15,7 +15,7 @@
 ```javascript
 const krishnaChaithanya = {
   location: "Machilipatnam, Andhra Pradesh 🌆",
-  currentFocus: "Full-Stack Development with MERN Stack",
+  currentFocus: "Full-Stack Development",
   interests: [
     "Problem Solving",
     "Web Development",
