@@ -8,7 +8,7 @@
 
 <br/>
 
-### 🚀 About Me
+### About Me
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ1OGU2NGU4NmM0ZmY4ZjgxMmFiYjk4YmFkYjg4ZjBhODYxYjE4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
@@ -28,7 +28,7 @@ const krishnaChaithanya = {
 
 > *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -63,13 +63,13 @@ const krishnaChaithanya = {
 
 </div>
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mskchaithanyaraj&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
 </p>
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mskchaithanyaraj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -78,7 +78,7 @@ const krishnaChaithanya = {
   <a href="mailto:mskchaithanyaraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">Contribution Snake</h3>
 <img src="https://raw.githubusercontent.com/mskchaithanyaraj/mskchaithanyaraj//output/snake.svg" alt="Snake animation" />
 
 
