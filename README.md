@@ -180,7 +180,7 @@ const krishnaChaithanya = {
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://chaithanyaraj.live/">
+  <a href="https://mskchaithanyaraj.me/">
     <img src="https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 
